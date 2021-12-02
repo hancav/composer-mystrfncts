@@ -1,0 +1,19 @@
+{
+    "name": "hancav/mystrfncts",
+    "description": "Basic package class providing my string functs", 
+    "homepage": "https://github.com/hancav/mystrfncts",
+    "type": "library",
+    "version":"1.0.0-dev",
+    "autoload": {
+        "psr-4": {
+            "MyStrLen\\": "src/",
+            "MyStrToUpper\\": "src/"
+        }
+    },
+    "authors": [
+       {
+           "name": "hancav",
+           "email": "hancav@mail.pt"
+       }
+   ]
+}
