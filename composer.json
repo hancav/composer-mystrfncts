@@ -3,7 +3,7 @@
     "description": "Basic package class providing my string functs", 
     "homepage": "https://github.com/hancav/mystrfncts",
     "type": "library",
-    "version":"1.0.0-dev",
+    "version":"1.0.1-dev",
     "authors": [
        {
             "name": "hancav",
