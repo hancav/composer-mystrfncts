@@ -1,5 +1,5 @@
 <?php
-namespace MyStrLen;
+namespace MyStrFncts;
 
 class MyStrLen{
 

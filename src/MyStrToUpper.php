@@ -1,5 +1,5 @@
 <?php
-namespace MyStrToUpper;
+namespace MyStrFncts;
 
 class MyStrToUpper{
 
